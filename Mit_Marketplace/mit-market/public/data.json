@@ -1,0 +1,482 @@
+{
+    "product1": {
+        "category": "Kitchen Essentials",
+        "description": "A high-quality stainless steel pan for everyday cooking.",
+        "imageUrl": "https://www.bajajelectricals.com/media/7062/sdp21_p_default_thumb.jpg",
+        "name": "Stainless Steel Pan",
+        "price": 650,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product10": {
+        "category": "Dorm Supplies",
+        "description": "A durable backpack for students.",
+        "imageUrl": "https://m.media-amazon.com/images/I/71qpXciYP1L.jpg",
+        "name": "Backpack",
+        "price": 39.99,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product11": {
+        "category": "Kitchen Essentials",
+        "description": "A coffee maker with customizable brewing options.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61PSF0cuiaL.jpg",
+        "name": "Coffee Maker",
+        "price": 1299,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product12": {
+        "category": "Electronics",
+        "description": "Wireless Bluetooth headphones with noise-cancelling.",
+        "imageUrl": "https://img.etimg.com/thumb/width-1200,height-1200,imgsize-239914,resizemode-75,msid-68425813/magazines/panache/ubon-bt5750-light-up-bluetooth-headphones-review-volume-output-is-loud-bass-effect-is-good.jpg",
+        "name": "Bluetooth Headphones",
+        "price": 982,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product13": {
+        "category": "Furniture",
+        "description": "A compact treadmill for home workouts.",
+        "imageUrl": "https://s.alicdn.com/@sc04/kf/H5d0f8f6889644ec28d3f8437b5a80db67.png_300x300.jpg",
+        "name": "Treadmill",
+        "price": 45000,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product14": {
+        "category": "Electronics",
+        "description": "A smartwatch with fitness tracking and notifications.",
+        "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/12/364966888/OA/SL/CD/130315831/51dqbevjdnl-sx522-500x500.jpg",
+        "name": "Smartwatch",
+        "price": 1299,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product15": {
+        "category": "Kitchen Essentials",
+        "description": "A fast-boiling electric kettle for your kitchen.",
+        "imageUrl": "https://blueberrysindia.com/wp-content/uploads/2023/08/Kettle-Mockup-1024x1024.png",
+        "name": "Electric Kettle",
+        "price": 878,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product16": {
+        "category": "Furniture",
+        "description": "A soft and stylish rug for your living room.",
+        "imageUrl": "https://ikiru.in/cdn/shop/products/buy-rugs-rectangular-cotton-woven-black-and-white-rug-or-decorative-floor-mat-for-living-room-bedroom-and-home-by-sashaa-world-on-ikiru-online-store-1.jpg?v=1724427624",
+        "name": "Rug",
+        "price": 789,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product17": {
+        "category": "Electronics",
+        "description": "A portable Bluetooth speaker with great sound quality.",
+        "imageUrl": "https://www.portronics.com/cdn/shop/products/img1_9abbf3c0-a346-4795-8968-444a0d6378d9_large.jpg?v=1709200217",
+        "name": "Portable Speaker",
+        "price": 800,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product18": {
+        "category": "Electronics",
+        "description": "A wireless printer for home or office use.",
+        "imageUrl": "https://i1.adis.ws/i/canon/imageprograf_pro-1000-side-paper-colour_800x500?w=700&qlt=70",
+        "name": "Printer",
+        "price": 18000,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product19": {
+        "category": "Kitchen Essentials",
+        "description": "A high-performance blender for smoothies and soups.",
+        "imageUrl": "https://www.seriouseats.com/thmb/cKDHF6x16s_TEM6LimNrQ7rU11s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sea-primary-vitamix-blenders-dec-24-nsimpson-1930-1-76394b7be1944a5589af62b589105e01.jpeg",
+        "name": "Vitamix Blender",
+        "price": 6999,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product2": {
+        "category": "Dorm Supplies",
+        "description": "A bright and energy-efficient desk lamp.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61PSF0cuiaL.jpg",
+        "name": "Desk Lamp",
+        "price": 450,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product20": {
+        "category": "Textbooks",
+        "description": "A comprehensive guide to web development.",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593480987i/54330264.jpg",
+        "name": "Textbook: Web Development",
+        "price": 399,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product21": {
+        "category": "Dorm Supplies",
+        "description": "A rechargeable electric toothbrush with multiple modes.",
+        "imageUrl": "https://oracura.in/cdn/shop/files/Slide-3_Blue_8fd7b4d1-5a34-491a-be50-9d7798ab6c62_1000x.jpg?v=1724408172",
+        "name": "Electric Toothbrush",
+        "price": 1280,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product22": {
+        "category": "Electronics",
+        "description": "A portable Bluetooth speaker for indoor and outdoor use.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cYWSaBNIhOPF2gguIun1olGtIYrHAlOO7w&s",
+        "name": "Bluetooth Speaker",
+        "price": 900,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product23": {
+        "category": "Furniture",
+        "description": "A modern dining table for your home.",
+        "imageUrl": "https://www.vikinterio.com/product-images/VROFS_A_0.jpg/473239000004621305/900x900",
+        "name": "Dining Table",
+        "price": 9800,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product24": {
+        "category": "Furniture",
+        "description": "A front-load washing machine with energy-saving features.",
+        "imageUrl": "https://www.jiomart.com/images/product/original/492664433/lg-9-kg-front-load-fully-automatic-washing-machine-with-smart-diagnosis-system-fhm1409bdp-digital-o492664433-p591053949-0-202202221325.jpeg?im=Resize=(1000,1000)",
+        "name": "Washing Machine",
+        "price": 21000,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product25": {
+        "category": "Kitchen Essentials",
+        "description": "A spacious fridge with energy-efficient features.",
+        "imageUrl": "https://images.samsung.com/is/image/samsung/assets/us/explore/family-hub-refrigerator/overview/10232024/DA-FHMLP-FT02-ControlYourHome-MO.png?$720_N_PNG$",
+        "name": "Fridge",
+        "price": 18000,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product26": {
+        "category": "Dorm Supplies",
+        "description": "A quiet and efficient electric fan for dorm rooms.",
+        "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/fan/z/v/x/-original-imaghachd8gxxehr.jpeg?q=90&crop=false",
+        "name": "Electric Fan",
+        "price": 4500,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product27": {
+        "category": "Kitchen Essentials",
+        "description": "A high-speed blender for making smoothies.",
+        "imageUrl": "https://www.kitchenstuffplus.com/media/catalog/product/9/3/93341_Starfrit_Personal_Blender___Set_of_7__White_Silver.jpg?width=1000&height=1000&canvas=1000,1000&optimize=high&fit=bounds",
+        "name": "Blender",
+        "price": 870,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product28": {
+        "category": "Kitchen Essentials",
+        "description": "A set of non-stick cookware for your kitchen.",
+        "imageUrl": "https://image.made-in-china.com/2f0j00yGtcnMrsCUue/Marble-Coated-Non-Stick-Cooking-Pots-Pans-Glass-Lids-Frying-Pan-Cookware-Set.webp",
+        "name": "Cookware Set",
+        "price": 2400,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product29": {
+        "category": "Kitchen Essentials",
+        "description": "A countertop microwave oven with multiple settings.",
+        "imageUrl": "https://th.sharp/sites/default/files/uploads/2021-08/Is%20microwaved%20food%20dangerous%20due%20to%20radiation.jpg",
+        "name": "Microwave Oven",
+        "price": 5200,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product3": {
+        "category": "Electronics",
+        "description": "A sleek smartphone with the latest features.",
+        "imageUrl": "https://images.fonearena.com/blog/wp-content/uploads/2017/10/best-smartphone-under-10000-Lenovo-K8-Plus.jpg",
+        "name": "Smartphone",
+        "price": 7000,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product30": {
+        "category": "Furniture",
+        "description": "A versatile sofa that transforms into a bed.",
+        "imageUrl": "https://www.nismaayadecor.in/cdn/shop/files/nismaaya-naia-sofa-cum-bed_3_1024x1024.png?v=1691743437",
+        "name": "Sofa Bed",
+        "price": 52000,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product31": {
+        "category": "Furniture",
+        "description": "A lightweight cordless vacuum for easy cleaning.",
+        "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/vacuum-cleaner/u/v/x/4500pa-stunning-pro-cordless-vacuum-cleaner-rechargeable-for-car-original-imagp3grxjgnezj2.jpeg?q=90&crop=false",
+        "name": "Cordless Vacuum Cleaner",
+        "price": 3200,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product32": {
+        "category": "Electronics",
+        "description": "A smart thermostat to control your home’s temperature remotely.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTfzVmSjX4gu_pyK1dLKwmeriGXm6uCPI3w&s",
+        "name": "Smart Thermostat",
+        "price": 3100,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product33": {
+        "category": "Kitchen Essentials",
+        "description": "A multi-purpose instant pot for quick cooking.",
+        "imageUrl": "https://images-cdn.ubuy.co.in/66451cfe0df5f914321ad396-instant-pot-chef-series-8-qt-pressure.jpg",
+        "name": "Instant Pot",
+        "price": 1900,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product34": {
+        "category": "Furniture",
+        "description": "A height-adjustable standing desk for your home office.",
+        "imageUrl": "https://images-cdn.ubuy.co.in/652209b752e19310a870e432-electric-height-adjustable-standing.jpg",
+        "name": "Standing Desk",
+        "price": 4349,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product35": {
+        "category": "Dorm Supplies",
+        "description": "A non-slip yoga mat for your workout sessions.",
+        "imageUrl": "https://m.media-amazon.com/images/I/71GT8Ec48tL._AC_UF894,1000_QL80_.jpg",
+        "name": "Yoga Mat",
+        "price": 290,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product36": {
+        "category": "Furniture",
+        "description": "A portable air conditioner for staying cool during hot days.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwgYx7aPmTyNQdixp0qXIR3FT41gfgEHS8zA&s",
+        "name": "Portable Air Conditioner",
+        "price": 4700,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product37": {
+        "category": "Electronics",
+        "description": "A portable vacuum cleaner for cleaning your car.",
+        "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/ky0g58w0/vacuum-cleaner/d/g/2/12v-high-power-wet-dry-portable-handheld-car-vacuum-cleaner-original-imagacfywztfpqfh.jpeg?q=90&crop=false",
+        "name": "Car Vacuum Cleaner",
+        "price": 560,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product38": {
+        "category": "Furniture",
+        "description": "A comfortable office chair for long hours of work.",
+        "imageUrl": "https://cdn.moglix.com/p/djsrKBRPVjQIC-xxlarge.jpg",
+        "name": "Office Chair",
+        "price": 2300,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product39": {
+        "category": "Kitchen Essentials",
+        "description": "A countertop dishwasher that saves space.",
+        "imageUrl": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-20308,resizemode-75,msid-113487190/top-trending-products/major-appliances/dishwashers/dishwashers-under-20000-in-india-for-effortless-dish-washing.jpg",
+        "name": "Dishwasher",
+        "price": 5100,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product4": {
+        "category": "Furniture",
+        "description": "A comfortable leather sofa for your living room.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTanH7un7skqHS4FMS0BU4FGh0UQ1BFhLH84w&s",
+        "name": "Leather Sofa",
+        "price": 9800,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product40": {
+        "category": "Kitchen Essentials",
+        "description": "A smokeless electric grill for indoor cooking.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDwXEREjZ5HnaNr65dRNMw8gL5ufwDoCOwA&s",
+        "name": "Electric Grill",
+        "price": 897,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product5": {
+        "category": "Electronics",
+        "description": "A powerful laptop with fast processing speed.",
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/3kcgKLkfPRbskpsYzW239d.jpg",
+        "name": "Laptop",
+        "price": 65000,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product6": {
+        "category": "Textbooks",
+        "description": "An introductory textbook for learning JavaScript.",
+        "imageUrl": "https://example.com/images/javascript-book.jpg",
+        "name": "Textbook: JavaScript Basics",
+        "price": 49.99,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product7": {
+        "category": "Kitchen Essentials",
+        "description": "A compact microwave oven for your kitchen.",
+        "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/microwave-new/n/n/i/-original-imagk3hjy9kveyzw.jpeg?q=90&crop=false",
+        "name": "Microwave Oven",
+        "price": 897,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product8": {
+        "category": "Electronics",
+        "description": "A sleek and responsive wireless mouse.",
+        "imageUrl": "https://fijitraders.com/wp-content/uploads/2021/06/WIRELESS-MOUSE.jpg",
+        "name": "Wireless Mouse",
+        "price": 860,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    },
+    "product9": {
+        "category": "Furniture",
+        "description": "An ergonomic desk chair for long hours of study.",
+        "imageUrl": "https://www.homegenic.in/cdn/shop/products/nilkamal-freedom-mini-medium-cabinet-nilkamal-freedom-mini-medium-cabinet-0r1gny.jpg?v=1623378729",
+        "name": "Desk Chair",
+        "price": 3200,
+        "ratings": 4.5,
+        "offers": [
+            "10% off on first purchase",
+            "Free shipping on orders over 1000"
+        ]
+    }
+}
